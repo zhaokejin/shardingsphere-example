@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="cn.cicoding.repository.UserRepository">
+<mapper namespace="cn.cicoding.jdbc.table.repository.UserRepository">
     
-    <resultMap id="baseResultMap" type="cn.cicoding.entity.User">
+    <resultMap id="baseResultMap" type="cn.cicoding.db.sharding.entity.User">
         <result column="id" property="id" jdbcType="INTEGER" />
         <result column="city" property="city" jdbcType="VARCHAR" />
         <result column="name" property="name" jdbcType="VARCHAR" />

@@ -1,6 +1,6 @@
-package cn.cicoding.dao;
+package cn.cicoding.jdbc.table.dao;
 
-import cn.cicoding.model.User;
+import cn.cicoding.jdbc.table.model.User;
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;

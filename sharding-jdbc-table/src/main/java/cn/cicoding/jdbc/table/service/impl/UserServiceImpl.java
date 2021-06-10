@@ -1,8 +1,8 @@
-package cn.cicoding.service.impl;
+package cn.cicoding.jdbc.table.service.impl;
 
-import cn.cicoding.dao.UserDaoMapper;
-import cn.cicoding.model.User;
-import cn.cicoding.service.UserService;
+import cn.cicoding.jdbc.table.dao.UserDaoMapper;
+import cn.cicoding.jdbc.table.service.UserService;
+import cn.cicoding.jdbc.table.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

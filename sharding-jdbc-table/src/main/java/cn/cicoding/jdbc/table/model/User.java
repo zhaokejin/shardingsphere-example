@@ -1,4 +1,4 @@
-package cn.cicoding.model;
+package cn.cicoding.jdbc.table.model;
 
 import lombok.Data;
 

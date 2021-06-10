@@ -1,7 +1,7 @@
-package cn.cicoding.controller;
+package cn.cicoding.jdbc.table.controller;
 
-import cn.cicoding.model.User;
-import cn.cicoding.service.UserService;
+import cn.cicoding.jdbc.table.model.User;
+import cn.cicoding.jdbc.table.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

@@ -1,6 +1,6 @@
-package cn.cicoding.service;
+package cn.cicoding.jdbc.table.service;
 
-import cn.cicoding.model.User;
+import cn.cicoding.jdbc.table.model.User;
 
 import java.util.List;
 

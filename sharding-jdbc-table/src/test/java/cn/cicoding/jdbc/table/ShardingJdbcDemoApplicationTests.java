@@ -1,4 +1,4 @@
-package cn.cicoding;
+package cn.cicoding.jdbc.table;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

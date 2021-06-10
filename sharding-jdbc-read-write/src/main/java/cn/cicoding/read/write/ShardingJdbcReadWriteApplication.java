@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * Sharding JDBC 垂直拆分（不同的表在不同的库中）
+ * Sharding-JDBC读写分离案例
  */
 @SpringBootApplication
 public class ShardingJdbcReadWriteApplication {

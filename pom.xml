@@ -19,6 +19,8 @@
         <module>sharding-jdbc-read-write</module>
         <module>sharding-jdbc-db-sharding</module>
         <module>sharding-db-read-write</module>
+        <module>sharding-jdbc-db-table</module>
+        <module>sharding-table-read-write</module>
     </modules>
 
     <name>Example::root</name>

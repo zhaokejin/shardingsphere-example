@@ -8,7 +8,7 @@ import org.apache.shardingsphere.api.sharding.standard.PreciseShardingValue;
 /**
  * 自定义分片算法
  * 
- * @author yinjihuan
+ * @author cicoding
  *
  */
 public class MyPreciseShardingAlgorithm implements PreciseShardingAlgorithm<Long> {

@@ -2,7 +2,7 @@ package com.cicoding.table.read.write.po;
 
 /**
  * 不分表
- * @author yinjihuan
+ * @author cicoding
  *
  */
 public class Cicoding {

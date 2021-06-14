@@ -2,7 +2,7 @@ package com.cicoding.db.table.read.write.range.group.entity;
 
 /**
  * 不分表
- * @author yinjihuan
+ * @author cicoding
  *
  */
 public class Cicoding {

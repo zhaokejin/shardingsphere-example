@@ -2,7 +2,7 @@ package cn.cicoding.jdbc.db.table.model;
 
 /**
  * 不分表
- * @author yinjihuan
+ * @author cicoding
  *
  */
 public class Cicoding {

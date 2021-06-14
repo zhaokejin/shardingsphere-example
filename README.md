@@ -1,4 +1,4 @@
-
+# sharding-jdbc 目录结构
 
 **sharding-jdbc-read-write**: Sharding-JDBC读写分离案例
 
@@ -11,3 +11,10 @@
 **sharding-jdbc-db-table**：Spring Boot版 Sharding JDBC 分库分表案例
 
 **sharding-table-read-write**：Spring Boot版 Sharding JDBC 不分库，只分表+读写分离案例
+
+**sharding-db-table-read-write**：Spring Boot版 Sharding JDBC 分库分表+读写分离案例
+
+**sharding-db-table-read-write-range-group**：Spring Boot版 Sharding JDBC 分库分表+读写分离案例(范围分表+取模=无限扩容)
+
+
+

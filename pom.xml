@@ -21,6 +21,8 @@
         <module>sharding-db-read-write</module>
         <module>sharding-jdbc-db-table</module>
         <module>sharding-table-read-write</module>
+        <module>sharding-db-table-read-write</module>
+        <module>sharding-db-table-read-write-range-group</module>
     </modules>
 
     <name>Example::root</name>

@@ -16,5 +16,11 @@
 
 **sharding-db-table-read-write-range-group**：Spring Boot版 Sharding JDBC 分库分表+读写分离案例(范围分表+取模=无限扩容)
 
+# sharding-jdbc 相关文章
 
+[Sharding-JDBC:查询量大如何优化？](https://mp.weixin.qq.com/s/kp2lJHpTMz4bDWkJYjVbOQ)
+
+[Sharding-JDBC:垂直拆分怎么做？](https://mp.weixin.qq.com/s/wl8h6LIQUHztVuVbjfsU3Q)
+
+[Sharding-JDBC:单库分表的实现](http://cxytiandi.com/blog/detail/36400)
 
